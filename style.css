@@ -7,7 +7,7 @@ body {
 
 
 .main{
-    background-color: lightgreen;
+    background-color: rgb(172, 245, 172);
     padding: 20px;
     border-radius: 10px;
     width: 90%;
@@ -28,6 +28,7 @@ body {
     margin: 0 10px 10px 10px;
     padding: 10px;
     border: 1px dashed red;
+    background-color: rgb(172, 245, 172);
     border-radius: 15px;
     color: red;
 }
@@ -37,7 +38,7 @@ button {
     margin: 10px 0;
     border: 1px dashed red;
     border-radius: 15px;
-    background-color: lightgreen;
+    background-color: rgb(172, 245, 172);
     color: red;
 }
 
@@ -46,7 +47,7 @@ button {
     padding: 10px;
     width: 100%;
     text-align: left;
-    background-color: lightgreen;
+    background-color: rgb(172, 245, 172);
     border: 1px dashed red;
     border-radius: 15px;
     font-size: 1.2em;
